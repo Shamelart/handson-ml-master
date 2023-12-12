@@ -1,1 +1,3 @@
-Linea codigo B prueba conflicto
+a
+c
+c
